@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infoblayout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\infoblayout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infolayout.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\infolayout.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resetpwd.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\resetpwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\introduce.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setpersonalinfo.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\setpersonalinfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\changenfo.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\changenfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\introduce.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resetpwd.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\resetpwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setpersonalinfo.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\setpersonalinfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popu.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\activity_popu.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infolayout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\infolayout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addfriends.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\addfriends.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_locshear.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\activity_locshear.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\changenfo.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\changenfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myexampleitem.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\myexampleitem.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popu.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\activity_popu.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infoblayout.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\infoblayout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addfriends.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\layout\\addfriends.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    }
+]

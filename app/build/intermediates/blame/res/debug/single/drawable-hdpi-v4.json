@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\localshare.jpg",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\localshare.jpg"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn_background.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\search_btn_background.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_top_background.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\search_top_background.png"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\localshare.jpg",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\drawable-hdpi\\localshare.jpg"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mini_avatar_shadow.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\mini_avatar_shadow.png"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_background.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\drawable-hdpi\\top_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_background.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\top_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_btn_back.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\drawable-hdpi\\selector_btn_back.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_btn_back.xml",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\src\\main\\res\\drawable-hdpi\\selector_btn_back.xml"
+    },
+    {
+        "merged": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Android\\wksp\\1219\\LShare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg.xml",
+        "source": "D:\\StudySoftware\\AndroidStudioWorkspace\\LShare\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg.xml"
+    }
+]

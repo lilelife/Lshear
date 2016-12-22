@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/setinfo11"
+        android:text="请输入个人信息。。。" />
+    <Button
+        android:layout_below="@+id/setinfo11"
+        android:id="@+id/change_sure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确认"/>
+    <Button
+        android:layout_below="@+id/change_sure"
+        android:id="@+id/change_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="取消"
+        android:focusable="true"/>
+
+</RelativeLayout>

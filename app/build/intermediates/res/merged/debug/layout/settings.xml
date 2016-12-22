@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nickname1"
+            android:textSize="25dp"
+            android:text="昵        称"/>
+        <EditText
+            android:layout_width="500dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/nickname11"
+            android:hint="请输入昵称。。。。。"
+            android:layout_toRightOf="@+id/nickname1"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/signature1"
+            android:text="个性签名"
+            android:textSize="25dp"/>
+        <EditText
+            android:layout_width="500dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/signature11"
+            android:hint="请输入个性签名。。。"
+            android:layout_toRightOf="@+id/signature1"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/personalinfo1"
+        android:text="个人信息"
+        android:textSize="25dp"/>
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/personalinfo11"
+        android:hint="请输入个人信息。。。"
+        android:layout_toRightOf="@+id/personalinfo1"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </RelativeLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sure"
+        android:text="确定"/>
+
+</LinearLayout>

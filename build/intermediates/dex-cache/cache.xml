@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\wksp\1219\LShare\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android\wksp\1219\LShare\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_d44597b45c27f542153127a9de17c9d3ad570f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\wksp\1219\LShare\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c851c338fc4f3aeda42995511b84ae15bc470e8">
+        <dex dex="D:\Android\wksp\1219\LShare\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_b282d7c04953b32ee2dfbd7df15821db2074439a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\wksp\1219\LShare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Android\wksp\1219\LShare\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_6006e4a6916d5e7181f09ac94aba05dddeed4b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\wksp\1219\LShare\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android\wksp\1219\LShare\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_f38dbe620eea2f12118b4a28d57d380e0a8f19c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android\wksp\1219\LShare\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_268299c9b9da5c4736dd7752fb85c71582c423d2.jar" />
+    </item>
+
+</items>

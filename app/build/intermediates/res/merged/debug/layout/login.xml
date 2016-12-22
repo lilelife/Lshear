@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg">
+	<RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="135dp"
+        >
+        <EditText
+        	android:id="@+id/name"
+       	 	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_marginLeft="15dp"
+       		 android:ems="10"
+        	android:hint="请输入用户名..."/>
+     	
+     	<EditText
+        	android:id="@+id/passWord"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_marginLeft="15dp"
+        	android:layout_below="@id/name"
+        	android:ems="10"
+        	android:hint="请输入密码..."
+			android:password="true"
+         />
+
+		<Button
+		    android:id="@+id/load"
+		    android:layout_width="250dip"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@+id/passWord"
+			android:background="#6e59244f"
+		    android:layout_centerHorizontal="true"
+			android:textSize="30dp"
+		    android:text="登				录" />
+        
+    </RelativeLayout>
+    
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        >
+		<Button
+		    android:id="@+id/regist"
+			style="@style/lightButton"
+		    android:layout_width="100dip"
+		    android:layout_height="wrap_content"
+		    android:text="注			册"
+		    android:layout_marginLeft="5dp"
+		   />
+		<Button
+			style="@style/lightButton"
+		    android:id="@+id/resetPassword"
+		    android:layout_width="100dip"
+		    android:layout_height="wrap_content"
+		    android:text="修改密码"
+		    android:layout_alignParentRight="true"
+		 	android:layout_marginRight="5dp"
+		   />
+	</RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="195dp"
+		android:gravity="center"
+        android:text="				sharing location with others....."
+        android:textColor="#0079ff"
+        android:textSize="20dp" />
+
+</LinearLayout>
